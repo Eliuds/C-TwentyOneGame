@@ -22,11 +22,11 @@ namespace TwentyOne// namespace must be the same between class and this.
 
             Console.WriteLine("Welcome to the grand hoten and casino. Lets start by telling me your name.");
             string playerName = Console.ReadLine();
-            Console.WriteLine("And how much money did you bring todaY?");
+            Console.WriteLine("And how much money did you bring today?");
             int bank = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Hello, {0}. Would you like to join a game of 21 right now?", playerName);
             string answer = Console.ReadLine().ToLower();
-            if (answer == "yes" || answer == "yeah"|| answer == "y"|| answer == "ya")
+            if (answer == "yes" || answer == "yeah"|| answer == "y"|| answer == "ya"|| answer == "yea")
             {
                 Player player = new Player(playerName, bank);
                 Game game = new TwentyOneGame();
