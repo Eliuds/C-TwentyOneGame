@@ -1,0 +1,14 @@
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CLASSES AND OBJECTS\CLASSES AND OBJECTS\bin\Debug\netcoreapp3.1\CLASSES AND OBJECTS.exe
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CLASSES AND OBJECTS\CLASSES AND OBJECTS\bin\Debug\netcoreapp3.1\CLASSES AND OBJECTS.deps.json
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CLASSES AND OBJECTS\CLASSES AND OBJECTS\bin\Debug\netcoreapp3.1\CLASSES AND OBJECTS.runtimeconfig.json
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CLASSES AND OBJECTS\CLASSES AND OBJECTS\bin\Debug\netcoreapp3.1\CLASSES AND OBJECTS.runtimeconfig.dev.json
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CLASSES AND OBJECTS\CLASSES AND OBJECTS\bin\Debug\netcoreapp3.1\CLASSES AND OBJECTS.dll
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CLASSES AND OBJECTS\CLASSES AND OBJECTS\bin\Debug\netcoreapp3.1\CLASSES AND OBJECTS.pdb
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CLASSES AND OBJECTS\CLASSES AND OBJECTS\obj\Debug\netcoreapp3.1\CLASSES AND OBJECTS.csproj.AssemblyReference.cache
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CLASSES AND OBJECTS\CLASSES AND OBJECTS\obj\Debug\netcoreapp3.1\CLASSES AND OBJECTS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CLASSES AND OBJECTS\CLASSES AND OBJECTS\obj\Debug\netcoreapp3.1\CLASSES AND OBJECTS.AssemblyInfoInputs.cache
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CLASSES AND OBJECTS\CLASSES AND OBJECTS\obj\Debug\netcoreapp3.1\CLASSES AND OBJECTS.AssemblyInfo.cs
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CLASSES AND OBJECTS\CLASSES AND OBJECTS\obj\Debug\netcoreapp3.1\CLASSES AND OBJECTS.csproj.CoreCompileInputs.cache
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CLASSES AND OBJECTS\CLASSES AND OBJECTS\obj\Debug\netcoreapp3.1\CLASSES AND OBJECTS.dll
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CLASSES AND OBJECTS\CLASSES AND OBJECTS\obj\Debug\netcoreapp3.1\CLASSES AND OBJECTS.pdb
+C:\Users\13218\Documents\Basic_C#_Programs\C-Sharp-and-Unity-Projects\CLASSES AND OBJECTS\CLASSES AND OBJECTS\obj\Debug\netcoreapp3.1\CLASSES AND OBJECTS.genruntimeconfig.cache
